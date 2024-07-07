@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FastaMoni",
-    "slug": "FastaMoni",
+    "name": "TranEase",
+    "slug": "TranEase",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.xkolz.FastaMoni"
+      "package": "com.xkolz.TranEase"
     },
     "web": {
       "favicon": "./assets/favicon.png"
