@@ -1,5 +1,7 @@
 Fastamoni Mobile Dev Assessment(React Native)
 
+![App Screenshot](./assets/app.png)
+
 using 
     @reduxjs/toolkit react-redux- Application State Management
     npm install axios - To make requests to either their own or a third-party server to fetch data.
