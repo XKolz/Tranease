@@ -1,6 +1,7 @@
 Fastamoni Mobile Dev Assessment(React Native)
 
-![App Screenshot](./assets/app.png)
+<!-- ![App Screenshot](./assets/app.png) -->
+<img src="./assets/app.png" alt="App Screenshot" width="500" height="300">
 
 using 
     @reduxjs/toolkit react-redux- Application State Management
