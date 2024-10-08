@@ -20,3 +20,4 @@ java -jar bundletool-all-1.16.0.jar build-apks --bundle=tranease.aab --output=tr
 
 ## Screenshot
 ![App Screenshot](./assets/app.png)
+Test
